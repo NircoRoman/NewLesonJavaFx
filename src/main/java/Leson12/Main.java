@@ -2,7 +2,7 @@ package Leson12;
 
 public class Main {
     private static final int size = 10000000;
-    private static final int h = size / 2;
+    private static final int h = size / 8;
     private static float[] arr = new float[size];
 
     public static void main(String[] args) {
